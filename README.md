@@ -1,6 +1,6 @@
 # CentralDogma
 My first stack
 
-# My_name_is_LeLeJ
-It's nice to meet you!
+## About me
+Greeting,It's nice to meet you! I am an undergraduate student from the school of Information Science and Technology. 
 
